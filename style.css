@@ -1,0 +1,20 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    background-color: rgb(255, 0, 115);
+    color: rgb(236, 218, 55);
+}
+
+.home-ul{
+    list-style-type: none;
+    border: 3px solid rgb(230, 93, 58);
+    border-radius: 5px;
+}
+li a{
+    text-decoration: none;
+    color: crimson;
+    font-size: 22px;
+    font-weight: 600;
+}
