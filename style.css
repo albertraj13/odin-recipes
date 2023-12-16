@@ -12,9 +12,40 @@ h1{
     border: 3px solid rgb(230, 93, 58);
     border-radius: 5px;
 }
-li a{
+li a,a{
     text-decoration: none;
     color: crimson;
     font-size: 22px;
     font-weight: 600;
+}
+.recipe-image{
+    margin: auto;
+    display: block;
+}
+.recipe-h2{
+    background-color: rgb(208, 206, 206);
+    color: rgb(194, 122, 118);
+    text-align: center;
+}
+.recipe-p{
+     line-height: 25px;
+     font-size: 20px;
+     width: 80%;
+     text-align: left;
+     margin: auto;
+     border: 3px solid rgb(255, 0, 132);
+     border-radius: 4px;
+     margin-bottom: 2px;
+}
+.recipe-h4{
+    font-size: 25px;
+}
+.recipe-ul{
+    list-style-type: none;
+    width: 45%;
+    margin: auto;
+    border: 2px solid rgb(236, 135, 152);
+    background-color: bisque;
+    font-size: 20px;
+    color: brown;
 }
